@@ -17,13 +17,3 @@ once it meets minimal quality requirements.
 Once software is in the Incubator, the C4DT engineer team will work together with the corresponding
 lab to fix security issues and make sure that the documentation is complete for usage by
 external partners.
-
-## List of software
-
-Currently we have the following software in our Incubator that we work on to being able
-to include it in DTOP:
-
-|Name|Documentation|Short Description|Lab|Contact|
-|---|---|---|---|---|
-|[Kyber](https://gopkg.in/dedis/kyber.v2)|[README](https://gopkg.in/dedis/kyber.v2/README.md)|a cryptographic library that exposes basic primitives and special algorithms|[DEDIS](https://dedis.epfl.ch)|dedis@epfl.ch|
-|[Prifi](https://github.com/dedis/prifi)|[README](https://github.com/dedis/prifi/README.md)|A Low-Latency, Tracking-Resistant Protocol for Local-Area Anonymity|[DEDIS](https://dedis.epfl.ch)|dedis@epfl.ch|
