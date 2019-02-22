@@ -1,6 +1,6 @@
 # Overview
 
-The Center for Digital Trust, [https://c4dt.com](C4DT), started the 
+The Center for Digital Trust, [C4DT](https://c4dt.org), started the
 Digital Trust Open Platform, DTOP, which will be a software platform enabling the development
 of secure and trustworthy applications. DTOP will provide a mirror of the latest stable version
 of the original software for our partners to directly use it. Development of the software
